@@ -21,6 +21,12 @@ body {
   padding-bottom: 50px;
 }
 
+h2 {
+  text-align: center;
+  margin-bottom: 70px;
+  color: aqua;
+}
+
 .swiper-slide {
   background-position: center;
   background-size: cover;
