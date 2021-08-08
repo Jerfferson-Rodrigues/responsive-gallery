@@ -1,6 +1,6 @@
 # responsive-gallery
 
-:writing_hand:📚		Projeto de estudo Front-End do site [CodePen.io](https://codepen.io/)
+:writing_hand:📚		Projeto de estudo Front-End como referência do site [CodePen.io](https://codepen.io/)
 
 ##  :hammer_and_wrench: Tecnologias:
 
