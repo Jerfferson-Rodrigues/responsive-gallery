@@ -1,4 +1,7 @@
 # responsive-gallery
+<h1 align="center">
+    <img alt="" title="" src=".github/img.png" />
+</h1>
 
 :writing_hand:📚		Projeto de estudo Front-End como referência do site [CodePen.io](https://codepen.io/)
 
